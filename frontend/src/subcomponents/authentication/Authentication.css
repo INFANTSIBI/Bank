@@ -1,0 +1,23 @@
+.auth {
+    width: 100%;
+    max-width: 400px;
+    margin: auto;
+}
+
+.form-label {
+    font-weight: bold;
+    padding-right: 89%;
+    font-style: italic;
+}
+
+.button {
+    width: 135px;
+    margin: 10px;
+    font-style: italic;
+}
+.mb-3 {
+    width: auto;
+    color: rgb(19, 1, 1);
+    font-style: italic;
+   
+}
